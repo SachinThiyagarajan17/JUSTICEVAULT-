@@ -1,0 +1,8 @@
+{
+  "name": "JusticeVault",
+  "description": "Secure Digital Document Management System for Legal, Police, Court, Forensic, and National Security Investigations with Smart Border Surveillance, AI-Powered Defence Technologies, and SIGINT Data Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
